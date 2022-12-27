@@ -1,0 +1,42 @@
+{
+  "tableData": [
+    {
+      "name": "Software Development",
+      "id": 1,
+      "user": [
+        "Manita",
+        "Kabita",
+        "Sumina"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "id": 2,
+      "user": [
+        "Manita",
+        "Kabita",
+        "Sumina"
+      ]
+    },
+    {
+      "name": "Hello",
+      "user": [],
+      "id": 3
+    },
+    {
+      "name": "Manita",
+      "user": [],
+      "id": 4
+    },
+    {
+      "name": "Manita",
+      "user": [],
+      "id": 5
+    },
+    {
+      "name": "Manitaa",
+      "user": [],
+      "id": 7
+    }
+  ]
+}
